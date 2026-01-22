@@ -67,3 +67,9 @@ Whilst not your conventional comedy, 'The Stanley Parable' has cemented itself i
 Stanley Parable pulls from the meta-comedy and dark humour subgenres to create what is an incredibly memorable experience for anyone playing blind. It uses a large series of incredibly blunt and obvious story telling to create an almost comedic undertone which has the player chuckling at the almost obvious nature of a lot of the jokes in the game. It perfectly matches the mundane and dread of the setting of the game, being an office building, as the main character, Stanley, navigates this story setup by the disembodied narrator.
 
 Stanley Parable has a lot to take away from in terms of how I can use it to further my own cutscene, with its office setting and blunt joke telling being core aspects of its comedy and also fitting into my cutscene's setting of a work environment too. It might be great to have supporting characters in the cutscene showcasing almost dread and blunt tiredness to contrast the techbro's almost upbeat and child-like excited nature of his AI. 
+
+### Script Writing
+
+---
+
+Before concluding our activities we eventually decided to get a basic script down and work on our shotlist document to pretty clearly plan out what the cutscene would look like and what we would need to record for our motion capture in the second week. 
