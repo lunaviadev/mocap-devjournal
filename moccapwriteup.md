@@ -73,3 +73,10 @@ Stanley Parable has a lot to take away from in terms of how I can use it to furt
 ---
 
 Before concluding our activities we eventually decided to get a basic script down and work on our shotlist document to pretty clearly plan out what the cutscene would look like and what we would need to record for our motion capture in the second week. 
+
+https://ucreative-my.sharepoint.com/:w:/r/personal/2310895_students_ucreative_ac_uk/_layouts/15/Doc.aspx?sourcedoc=%7BE856EF1D-0E62-446B-A1A2-E40003BFF8AD%7D&file=GLEM%20Shotlist.docx&fromShare=true&action=default&mobileredirect=true
+
+Attached above is a copy of our shotlist for our group cutscene and although I generally liked the idea, I wanted to personally move away from the commercial aspect and play more into the 'pitch gone wrong' idea that was its core rather than having it be a commercial. 
+
+As a group we all carefully planned out what would happen in each scene in order to 
+
