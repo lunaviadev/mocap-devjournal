@@ -78,5 +78,118 @@ https://ucreative-my.sharepoint.com/:w:/r/personal/2310895_students_ucreative_ac
 
 Attached above is a copy of our shotlist for our group cutscene and although I generally liked the idea, I wanted to personally move away from the commercial aspect and play more into the 'pitch gone wrong' idea that was its core rather than having it be a commercial. 
 
-As a group we all carefully planned out what would happen in each scene in order to 
+As a group we all carefully planned out what would happen in each scene in order to get the best results and a product we were happy with.
 
+![alt text](image-9.png)
+
+*Figure 1. The first part of the script written down in the shotlist. We immediately got to planning out each scene and shot along with the script in order to avoid confusion later from just writing out dialogue*
+
+
+![alt text](image-10.png)
+
+*Figure 2. Highlighted dialogue that I personally wrote for the script.*
+
+![alt text](image-11.png)
+
+*Figure 3. An extension of figure 2 showcasing dialogue I had contributed. My direction with these kinds of jokes was to emulate a style seen in Saiki K using that parody and stereotype comedy in order to poke fun at a lot of Tech bros being lonely and using AI to supplement real human connection, whilst using a bit of a crude reference in order to catch viewers off guard and hopefully get a laugh out of them.*
+
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
+
+*Figure's 4-6. A look at some shot breakdowns for scenes I ended up using in my personal rendition of the cutscene as I cut shots 5 and 6 out of my cutscene due to time contraints. The shot breakdown clearly illustrates the actions that would be taking place and the general position of all the characters on screen at any given moment. I took some liberities with this dude to my set piece and the positioning of my camera. I will talk about this a bit later in the dev journal.*
+
+
+## Week 2 - Motion Capturing! 
+
+Unfortunately due to an unforseen A&E visit I was unable to actually attend the shoot day and thus am only able to comment on pictures I was sent of the shoot day and will have to use second hand accounts of the day in order to annotate the following section.
+
+![alt text](image-15.png)
+
+*Figure 7. One of our actors getting into the motion capture suit and getting ready to film the scene! From what I was told the setup didn't take as long as the group had expected and allowed them more time to actually film what they needed to for the cutscene.*
+
+![alt text](image-16.png)
+
+*Figure 8. Showcasing the in engine look at the two motion capture actors in scene and the software properly picking them up and ensuring that everything is working as intended!*
+
+![alt text](image-17.png)
+
+*Figure 9. Gavin assisting with some issues on the software, I was told this was resolved pretty quickly and was just a marker error or something, I cannot quite remember sadly!*
+
+![alt text](image-18.png)
+
+*Figure 10. Max posed up funnily as the group go over the shot directions in order to get ready for the next take*
+
+![alt text](image-19.png)
+
+*Figure 11. The whole group selfie (minus me) after doing various shots and takes. I believe this was just as they were about to take a lunch break if I remember correctly*
+
+![alt text](image-20.png)
+
+*Figure 12. Filming the Tech Bro fight scene and having to use the padded mats to ensure no injuries were occuring on site! Safety is very important!*
+
+---
+
+### Afterthoughts of Week 2
+
+As I couldn't attend the shoot I unfortunately don't have much to comment on what happened that day however from pictures and accounts I was given for the most part filming went smoothly with setup not taking too long and many of the shots not requiring more than one or two takes with a few errors here and there. For the most part everyone found it a pretty positive experience with a lot of fun takeaways and learning lessons with the mocap suits that made it memorable for everyone.
+
+## Week 3 - Motionbuilder and importing into Unreal
+
+Once again I was still dealing with the aftermath of my A&E visit and was only on campus for one day to attend the motionbuilder class so I won't have much to say in this section as I was only able to work for a day during this week.
+
+Week 3 mostly consisted of getting the hang of Motion Builder and importing all my animations into Unreal so I had everything ready to go before starting Week 4 and actually building the cutscene. As I didn't have any models or assets selected at this time I wasn't actually retargeting any animations at this point but rather just bringing all the FBX files into unreal.
+
+![alt text](image-21.png)
+
+*Figure 13. A look at selecting branches in Motionbuilder in order to save and port the animation sequence into unreal. I had already by this point set up a cube on a prior FBX mocap file so I was only selecting the markers here to bring into Unreal.*
+
+![alt text](image-22.png)
+
+*Figure 14. Attaching a cube to the hips for the first export in order to allow all future exports to be targeted to one skeleton.*
+
+![alt text](image-23.png)
+
+*Figure 15. All exported skeletons + animation sequences that I had brought on over from motionbuilder. Most of these gave me no issues though I would later come to find that things like the transform were all over the place for these but as for importing I had no issues.*
+
+![alt text](image-24.png)
+
+*Figure 16. I spent most the day in motionbuilder after class just fiddling around with stuff to ensure that all my exports were correct and showing up as they should in unreal, I checked in the viewports with heirarchy view set to all in order to see the skeletons. The large amount of lines are just due to the unmarked markers I left on the body which I didn't delete in motionbuilder. It makes a bit harder to view the animations though unreal ignored them in engine so to go and delete it for every export felt like unworthy hassle.*
+
+Most of week 3 was spent on this day just bringing everything into unreal in order to be able to pickup where I left off in unreal with everything already in there so I could just find assets and set dress then get to sorting out everything in the sequencer. I think motionbuilder was probably the biggest hurdle for me this week due to the fact I had never used it whereas with everything else I have been loosely familiar with or have used it. This made for a fun challange just getting used to navigating through motionbuilder and exporting fbx files but in the end it turned out alright and I didn't have any major issues.
+
+## Week 4 - Putting it all together
+
+Going into Week 4 I had one sole objective of ensuring that I had a 1 minute 30 cutscene and a well dressed scene in order to have something to turn in as I was falling a bit behind where I had been unable to work during Week's 2 and 3.
+
+I first got to finding assets.
+
+![alt text](image-25.png)
+
+*Figure 17. A look at the model I pulled from Mixamo in order to use as my director character. As the cutscene (at least in my head) had this like workplace office environment going on I wanted it to feel more like a sales pitch from an employee to a boss so I wanted to find a model that fit the vibe of smart casual and I feel like this model worked pretty well. Being a mixamo model it meant that it was already rigged and ready to use with motion capture so I had no issues with the model and retargeting animations.*
+
+![alt text](image-26.png)
+
+*Figure 18. Fitting with the smart casual and buisness environment I was going for, I picked this model for the main 'Techbro' as I felt like as an employee he would have stricter dresscode and need to appear more formal due to him providing a pitch to a higher up, hence the suit and tie with jeans. I feel like his model worked appropriately well for what I was going for in this situation.*
+
+![alt text](image-27.png)
+
+*Figure 19. When it came to the 'GLEM' ai I wanted to pick something that felt like it was excessively futuristic, almost like if the tech bro had designed it specifically to look cool and impress people, hence the choice of incredibly futuristic sleek carbon design on the AI model. I was incredibly limited in my choices for models in this specific category and I wish I had the 3D modelling skills to actually make my own, however this was the best I could find and I feel like, though not entirely spot on with what I wanted, it mostly matched the vibe I was going for!*
+
+![alt text](image-28.png)
+
+*Figure 20. This was just another work place model I picked just to match the vibe of what was already going on with the environment. She only appears in one shot so I didn't particularly care for the design, especially as she had no lines in the script either.*
+
+![alt text](image-29.png)
+
+*Figure 21. When it came to the actual environment I found a modular workplace pack on fab for free which I was able to download and utilise the assets. The vibe mostly matched the idea I had going on as I was pivoting away from my group's general idea of a commercial and more into the idea of a pitch I wanted it to not be a TV set but rather just a workplace environment like how you would pitch to a boss in any other regular environment. This is just a picture of all the assets that came in that modular pack.*
+
+![alt text](image-30.png)
+
+*Figure 22. A look at the set dressed office space that the cutscene would take place in from the starting perspective of the camera in the actual cutscene.*
+
+![alt text](image-31.png)
+![alt text](image-32.png)
+![alt text](image-33.png)
+
+*Figure 23-25. Some additional angles of the main area where the entire cutscene takes place. I feel like the entire look and feel of the building gave off that very corperate vibe and when I showed it off to some friends too for some feedback on my choice of set they gave me the same comments that it definitely looked and felt like an office building.*
