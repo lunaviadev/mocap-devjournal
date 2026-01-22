@@ -193,3 +193,47 @@ I first got to finding assets.
 ![alt text](image-33.png)
 
 *Figure 23-25. Some additional angles of the main area where the entire cutscene takes place. I feel like the entire look and feel of the building gave off that very corperate vibe and when I showed it off to some friends too for some feedback on my choice of set they gave me the same comments that it definitely looked and felt like an office building.*
+
+![alt text](image-34.png)
+![alt text](image-35.png)
+![alt text](image-36.png)
+
+*Figure 26-28. A look at the scene during the cutscene not using the main sequencer's camera but instead taken behind the scenes just to provide some alternative looks at the scene with all actors in it during motion. Looking behind the scenes I think theres definitely a few aspects of the scene that look a bit 'jank' for lack of better words but during the actual camera cut camera in the sequencer I think they came out fine.*
+
+![alt text](image-37.png)
+![alt text](image-38.png)
+![alt text](image-39.png)
+
+*Figure 29-31. A look at the scene and actors during the actual sequencer's camera this time. I think definitely looking at this scene through the camera I'm super happy with how it turned out. I think that my research into and prior knowledge of cinematography techniques really helped amplify my camera perspectives for what is otherwise a pretty motionless cutscene where two characters are just talking. I'm a big fan of the framing on figure 29 and is definitely one of my favourite shots from the project.*
+
+![alt text](Recording%202026-01-22%20151313.gif)
+
+*Figure 32. I was incredibly happy with this wipe shot that lead into framing the main two characters of the next shot. I think it works way better than just having it slightly pan over to reframe the shot but rather uses something more dynamic and allows a better feel for the surroundings whilst acting like a seamless transition between the director and the employee, creating some much needed seperation between the two, emphasising their difference in importance.*
+
+![alt text](image-40.png)
+
+*Figure 33. A look at my sequencer from the final cut with all the actors and different transforms that were pulled off to make the cutscene. I think in general just working and playing around with the camera and different shots was my favourite part of this, I enjoyed being able to have a lot more logical freedom with the camera than you otherwise would with a traditional film camera and it allowed for some more dynamic shots and framing throughout the duration of the cutscene which I was really happy with. It was a shame that the animations kept messing up at points which led to less than favourable shots but I believe I fixed everything in time for the final cutscene.*
+
+### Sound and Audio (last little bit)
+
+So I didn't do the sound or audio in unreal because I found unreal's sequencer and audio handling incredibly frustrating to work with so I swapped over to davinci resolve which is something I am much more familiar with in order to add in all the foley and voicelines we recorded.
+
+I sweeped through pixabay for all of my sound effects that I used for foley as I was unable to record my own foley.
+
+![alt text](image-41.png)
+
+*Figure 34. My davinci resolve timeline after adding in all voice lines and foley alongside tweaking audio in order to ensure none of it was too loud or too quiet and it all fit in with what was going on with the scene. This part was pretty short due to the general atmosphere of the scene only really requiring walking sounds and general office noise as to not make it feel like dead air with conversation during the entire cutscene.*
+
+---
+
+## Final Thoughts
+
+Just to close out with some of my final thoughts I think this project was definitely an interesting one. It was a shame I missed half the weeks and thus missed out on a lot of opportunities like the mocap filming day and just time I could've used to better prepare my cutscene and myself. If I could make any adjustments in hindsight I probably would've campaigned harder to do my idea of 'Devil's Tango' that I mentioned earlier. I think a lot of my problems with this cutscene and idea was that the joke got pretty old pretty quick and felt like it dragged on which was part of my reason for cutting down the full cutscene to be shorter. I also feel like the general lack of motion and just general concept really limited what could've been possible as there were only so many possibilities what you could do with two characters having a conversation that isn't just switching angles so the viewer isn't just staring at a static cutscene for half the time. That being said I definitely think with a bit more time I would've been able to maybe better flesh out some ideas for this cutscene and maybe integrate a bit more of the script into it to maybe create a longer scene though due to a lot of issues with later mocap fbx files like the transform being off or just general unclear labelling I found it difficult to work with the latter half of the mocap files too. 
+
+Here is also the cutscene uploaded privately to youtube.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y0nYS57H0Is?si=a-MPaY5VzfoYFjqX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+(link if the embed doesnt work since i dont remember if embeds work in markdown)
+
+https://youtu.be/y0nYS57H0Is
